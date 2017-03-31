@@ -6,7 +6,8 @@ withEnt/ 文件夹下存放包含Ent关系的数据。
 withoutEnt/ 文件夹下则不包含Ent关系数据
 
 
-因为github对文件大小有限制，所以词向量也只上传部分。更多词向量请到百度云盘下载:
+因为github对文件大小有限制，所以词向量也只上传部分。更多词向量请到百度云盘下载.
+
 链接: https://pan.baidu.com/s/1bo6w9AJ 密码: dfgp
 
 # 训练和测试
